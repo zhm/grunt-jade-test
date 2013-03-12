@@ -1,0 +1,24 @@
+{
+  "name": "grunt-jade-test",
+  "version": "0.0.1",
+  "description": "grunt-jade-test",
+  "repository": {
+  },
+  "author": {
+    "name": "Zac McCormick"
+  },
+  "contributors": [
+    "Zac McCormick <zac@spatialnetworks.com>"
+  ],
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-jade": "*"
+  },
+  "scripts": {
+  }
+}

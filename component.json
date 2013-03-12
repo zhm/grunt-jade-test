@@ -1,0 +1,11 @@
+{
+  "name": "grunt-jade-test",
+  "dependencies": {
+    "karlbohlmark/jade-runtime": "*"
+  },
+  "scripts": [
+    "dist/hello.js",
+    "index.js"
+  ],
+  "locals": []
+}

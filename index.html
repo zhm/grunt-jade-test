@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Grunt Jade Test</title>
+  </head>
+  <body>
+    <div id="content"></div>
+    <script src="../build/build.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      Template = require('grunt-jade-test');
+
+      document.querySelector('#content').innerHTML = Template()
+    </script>
+  </body>
+</html>
+
